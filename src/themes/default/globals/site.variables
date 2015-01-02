@@ -45,7 +45,7 @@
 /*---  Colors  ---*/
 @black            : #1B1C1D;
 @blue             : #3B83C0;
-@green            : #5BBD72;
+@green            : #21912E;
 @grey             : #CCCCCC;
 @orange           : #E07B53;
 @pink             : #D9499A;
@@ -57,7 +57,7 @@
 /*---  Light Colors  ---*/
 @lightBlack       : #333333;
 @lightBlue        : #54C8FF;
-@lightGreen       : #2ECC40;
+@lightGreen       : #52AB67;
 @lightOrange      : #FF851B;
 @lightPink        : #FF8EDF;
 @lightPurple      : #CDC6FF;

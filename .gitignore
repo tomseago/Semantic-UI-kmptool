@@ -6,6 +6,8 @@ theme.config
 semantic.json
 tasks/admin/oauth.js
 
+dist/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
